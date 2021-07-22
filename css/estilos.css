@@ -1,0 +1,24 @@
+/*font-family: 'Yantramanav', sans-serif;*/
+
+footer{
+    background-color: blueviolet;
+}
+
+.hero{
+    background: url(../img/sheep.jpeg) no-repeat;
+    background-size: cover;
+    height:auto;
+    min-height: 1100px;
+    color: white;
+}
+
+texto1{
+    font-family: 'Yantramanav', sans-serif;
+}
+
+.carrousel{
+    background-color: violet;
+    height:auto;
+    min-height: 100px;
+}
+
